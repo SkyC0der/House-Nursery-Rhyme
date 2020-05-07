@@ -1,0 +1,33 @@
+{
+  "name": "code-challenge-javascript-day-11",
+  "version": "1.0.0",
+  "description": "javascript code challenge day 11. House challenge",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevCbenin/code-challenge-javascript-day-11.git"
+  },
+  "keywords": [
+    "house",
+    "algorithm",
+    "challenge",
+    "test",
+    "javascript",
+    "facebook",
+    "devc",
+    "benin"
+  ],
+  "author": "damilare-sanusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevCbenin/code-challenge-javascript-day-11/issues"
+  },
+  "homepage": "https://github.com/DevCbenin/code-challenge-javascript-day-11#readme"
+}
