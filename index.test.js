@@ -1,4 +1,4 @@
-const House = require('./house')
+const House = require('./index')
 
 describe('House', () => {
   test('verse one - the house that jack built', () => {
